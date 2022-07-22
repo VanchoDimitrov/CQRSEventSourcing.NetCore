@@ -1,8 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/oskar_at_net?style=social)](https://twitter.com/oskar_at_net) [![Join the chat at https://gitter.im/EventSourcing-NetCore/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EventSourcing-NetCore/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) ![Github Actions](https://github.com/oskardudycz/EventSourcing.NetCore/actions/workflows/build.dotnet.yml/badge.svg?branch=main) [![blog](https://img.shields.io/badge/blog-event--driven.io-brightgreen)](https://event-driven.io/?utm_source=event_sourcing_net) [![blog](https://img.shields.io/badge/%F0%9F%9A%80-Architecture%20Weekly-important)](https://www.architecture-weekly.com/?utm_source=event_sourcing_net) 
-
-# EventSourcing .NET
-
-Tutorial, practical samples and other resources about Event Sourcing in .NET. See also my similar repositories for [JVM](https://github.com/oskardudycz/EventSourcing.JVM) and [NodeJS](https://github.com/oskardudycz/EventSourcing.NodeJS).
+# CQRS and EventSourcing .NET
 
 - [EventSourcing .NET](#eventsourcing-net)
   - [1. Event Sourcing](#1-event-sourcing)
