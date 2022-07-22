@@ -1092,11 +1092,6 @@ The simplest way to start is **installing the [project template](https://github.
 -   📝 [Hugo Rocha - What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
 -   📝 [Oskar uit de Bos - Stop overselling Event Sourcing as the silver bullet to microservice architectures](https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7)
 
-### 13.21 Architecture Weekly
-If you're interested in Architecture resources, check my other repository: https://github.com/oskardudycz/ArchitectureWeekly/.
-
-It contains a weekly updated list of materials I found valuable and educational.
-
 ---
 
 **EventSourcing.NetCore** is Copyright &copy; 2017-2022 [Oskar Dudycz](http://event-driven.io) and other contributors under the [MIT license](LICENSE).
